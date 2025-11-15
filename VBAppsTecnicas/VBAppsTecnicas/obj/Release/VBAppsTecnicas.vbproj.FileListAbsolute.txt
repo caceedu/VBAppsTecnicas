@@ -1,0 +1,13 @@
+C:\Users\alfon\AppData\Local\Temporary Projects\VBAppsTecnicas\bin\Release\VBAppsTecnicas.exe
+C:\Users\alfon\AppData\Local\Temporary Projects\VBAppsTecnicas\bin\Release\VBAppsTecnicas.pdb
+C:\Users\alfon\AppData\Local\Temporary Projects\VBAppsTecnicas\bin\Release\VBAppsTecnicas.xml
+C:\Users\alfon\AppData\Local\Temporary Projects\VBAppsTecnicas\obj\Release\ResolveAssemblyReference.cache
+C:\Users\alfon\AppData\Local\Temporary Projects\VBAppsTecnicas\obj\Release\VBAppsTecnicas.FrmUnidades.resources
+C:\Users\alfon\AppData\Local\Temporary Projects\VBAppsTecnicas\obj\Release\VBAppsTecnicas.Resources.resources
+C:\Users\alfon\AppData\Local\Temporary Projects\VBAppsTecnicas\obj\Release\VBAppsTecnicas.vbproj.GenerateResource.Cache
+C:\Users\alfon\AppData\Local\Temporary Projects\VBAppsTecnicas\obj\Release\VBAppsTecnicas.exe
+C:\Users\alfon\AppData\Local\Temporary Projects\VBAppsTecnicas\obj\Release\VBAppsTecnicas.xml
+C:\Users\alfon\AppData\Local\Temporary Projects\VBAppsTecnicas\obj\Release\VBAppsTecnicas.pdb
+C:\Users\alfon\Documents\VBa\VBAppsTecnicas\VBAppsTecnicas\obj\Release\VBAppsTecnicas.exe
+C:\Users\alfon\Documents\VBa\VBAppsTecnicas\VBAppsTecnicas\obj\Release\VBAppsTecnicas.xml
+C:\Users\alfon\Documents\VBa\VBAppsTecnicas\VBAppsTecnicas\obj\Release\VBAppsTecnicas.pdb

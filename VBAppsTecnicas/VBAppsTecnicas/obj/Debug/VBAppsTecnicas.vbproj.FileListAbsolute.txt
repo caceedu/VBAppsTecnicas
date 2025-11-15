@@ -1,0 +1,10 @@
+C:\Users\alfon\AppData\Local\Temporary Projects\VBAppsTecnicas\bin\Debug\VBAppsTecnicas.exe
+C:\Users\alfon\AppData\Local\Temporary Projects\VBAppsTecnicas\bin\Debug\VBAppsTecnicas.pdb
+C:\Users\alfon\AppData\Local\Temporary Projects\VBAppsTecnicas\bin\Debug\VBAppsTecnicas.xml
+C:\Users\alfon\AppData\Local\Temporary Projects\VBAppsTecnicas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\alfon\AppData\Local\Temporary Projects\VBAppsTecnicas\obj\Debug\VBAppsTecnicas.FrmUnidades.resources
+C:\Users\alfon\AppData\Local\Temporary Projects\VBAppsTecnicas\obj\Debug\VBAppsTecnicas.Resources.resources
+C:\Users\alfon\AppData\Local\Temporary Projects\VBAppsTecnicas\obj\Debug\VBAppsTecnicas.vbproj.GenerateResource.Cache
+C:\Users\alfon\AppData\Local\Temporary Projects\VBAppsTecnicas\obj\Debug\VBAppsTecnicas.exe
+C:\Users\alfon\AppData\Local\Temporary Projects\VBAppsTecnicas\obj\Debug\VBAppsTecnicas.xml
+C:\Users\alfon\AppData\Local\Temporary Projects\VBAppsTecnicas\obj\Debug\VBAppsTecnicas.pdb
